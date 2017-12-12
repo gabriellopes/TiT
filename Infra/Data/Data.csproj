@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+</Project>
+
+<ItemGroup>
+  <PackageReference></PackageReference>
+</ItemGroup>
+
+<ItemGroup>
+   <PackageGroup Include="Microsoft.EntityFrameworkCore.SqlServer" Version="LATEST" />
+</ItemGroup>

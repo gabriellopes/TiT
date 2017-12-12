@@ -1,0 +1,3 @@
+/home/lar/Development/Projetos Dotnet/TiT/TiT.Comum/obj/Debug/netstandard2.0/TiT.Comum.csproj.CoreCompileInputs.cache
+/home/lar/Development/Projetos Dotnet/TiT/TiT.Comum/obj/Debug/netstandard2.0/TiT.Comum.AssemblyInfoInputs.cache
+/home/lar/Development/Projetos Dotnet/TiT/TiT.Comum/obj/Debug/netstandard2.0/TiT.Comum.AssemblyInfo.cs
